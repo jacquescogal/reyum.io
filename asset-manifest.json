@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9c93f24.css",
-    "main.js": "/static/js/main.eb0c9896.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.b9c93f24.css.map": "/static/css/main.b9c93f24.css.map",
-    "main.eb0c9896.js.map": "/static/js/main.eb0c9896.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/reyum.io/static/css/main.b9c93f24.css",
+    "main.js": "/reyum.io/static/js/main.a04da625.js",
+    "static/js/787.9817ca73.chunk.js": "/reyum.io/static/js/787.9817ca73.chunk.js",
+    "static/media/logo.svg": "/reyum.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reyum.io/index.html",
+    "main.b9c93f24.css.map": "/reyum.io/static/css/main.b9c93f24.css.map",
+    "main.a04da625.js.map": "/reyum.io/static/js/main.a04da625.js.map",
+    "787.9817ca73.chunk.js.map": "/reyum.io/static/js/787.9817ca73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9c93f24.css",
-    "static/js/main.eb0c9896.js"
+    "static/js/main.a04da625.js"
   ]
 }
